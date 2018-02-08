@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="sftp://mrtsepa@informatics.msk.ru:22/home/mrtsepa/local/bin/node" WEB_SERVER_CONFIG_ID="f6737c9f-4103-4028-b25f-a86b452a301b" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'informatics.msk.ru'" WEB_SERVER_CREDENTIALS_ID="sftp://mrtsepa@informatics.msk.ru:22" INTERPRETER_PATH="/home/mrtsepa/local/bin/node" HELPERS_PATH="/home/mrtsepa/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="9.3.0" />
+  </component>
+</application>
