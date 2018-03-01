@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="822c4eac-9072-4eb7-8fbe-43c04a61e7c7" name="informatics" url="http://informatics.msk.ru">
+        <fileTransfer host="informatics.msk.ru" port="22" privateKey="$USER_HOME$/.ssh/informatics_rsa" rootFolder="/home/mrtsepa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
