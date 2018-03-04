@@ -1,0 +1,7 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SASS" injector-id="js">
+      <display-name>New Js Injection</display-name>
+    </injection>
+  </component>
+</application>
