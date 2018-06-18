@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e2f74933-9b40-4206-83fd-2f3760a0045b" name="iitp" url="http://188.93.104.86">
-        <fileTransfer host="188.93.104.86" port="22" rootFolder="/home/tsepa" accessType="SFTP">
+        <fileTransfer host="188.93.104.86" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
