@@ -17,6 +17,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f9c427f8-d35f-42f7-b087-719af82a11f4" name="tsepa@lechuga:22" url="http:///">
+        <fileTransfer host="lechuga" port="22" rootFolder="/home/tsepa" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
