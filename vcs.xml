@@ -18,8 +18,12 @@
           <option name="url" value="http://gitlab.skoltech.ru/aeronet/aeroline.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:khakhulin/Text2Img.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/aeronet" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
   </component>
 </application>
